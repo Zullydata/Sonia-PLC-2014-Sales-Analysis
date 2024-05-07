@@ -18,7 +18,7 @@ After conducting a thorough data analysis of the sales of Sonia PLC, we have gai
 Sales data: The main dataset utilized in this analysis is the "Sonia Plc 2014 sales Analysis.xlsx" which provides comprehensive details on every sale conducted by the company.
 
 # Tool
-The tools used for the analysis of the sales trend include:
+The tool used for the analysis of the sales trend include:
 Excel- It’s widely used for data analysis, visualization, and reporting. It offers various functions, pivot tables, and charting capabilities.
 - - -  [Download Excel here](https://microsoft.com)
 
